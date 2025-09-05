@@ -1,9 +1,23 @@
-project name: spots
+# spots
 
-ProjecT description: an interactive and resposive website, for posting photos for friends aand family to see.
+an image sharing site
 
-the ;anguages used for this projects are HTML, CSS, aand Java. this project was also created useing BEM methods.
+## description
 
-plans: add a drop down menu with more fetures.
+an interactive and resposive website, for posting photos for friends aand family to see.
 
-Video:
+## Tech stack
+
+-HTML
+-CSS
+-Java
+
+## plans:
+
+add a drop down menu with more fetures.
+
+## Video: https://youtu.be/phIfsXwbP48
+
+- project link: https://misfitsd12.github.io/se_projects_spots/
+
+- github link: https://github.com/MisfitSd12/se_projects_spots.git
