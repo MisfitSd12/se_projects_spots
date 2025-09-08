@@ -16,7 +16,7 @@ an interactive and resposive website, for posting photos for friends aand family
 
 add a drop down menu with more fetures.
 
-## Video: https://youtu.be/phIfsXwbP48
+## Video: https://youtu.be/7VX5zt0RSIY
 
 - project link: https://misfitsd12.github.io/se_projects_spots/
 
